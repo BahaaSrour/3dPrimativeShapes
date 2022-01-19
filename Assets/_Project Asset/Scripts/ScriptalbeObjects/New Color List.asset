@@ -15,7 +15,7 @@ MonoBehaviour:
   itemsList:
   - name: Red
     shapeColor: {r: 1, g: 0, b: 0, a: 1}
-  - name: Blue
-    shapeColor: {r: 0, g: 0, b: 1, a: 1}
   - name: Green
-    shapeColor: {r: 0, g: 1, b: 0, a: 1}
+    shapeColor: {r: 0.12220454, g: 1, b: 0, a: 1}
+  - name: blue
+    shapeColor: {r: 0, g: 0.00002193451, b: 1, a: 1}
